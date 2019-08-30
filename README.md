@@ -6,10 +6,9 @@
 仅代表个人观点, 发出来, 希望对他人有所帮助.
 
 - [反馈和留言](https://github.com/linpengcheng/icd10faq/issues)
-
 - [最新增改列表](https://github.com/linpengcheng/icd10faq/commits/master)
 
 # 目录
 
-- [`A37百日咳`临床2.0版"类百日咳综合征"处理不一致?](./doc/A37.md)
+- [`A37百日咳`临床2.0版`类百日咳综合征`处理不一致?](./doc/A37.md)
 - [`I12高血压性慢性肾病`的假定分类不合适](./doc/I12.md)
