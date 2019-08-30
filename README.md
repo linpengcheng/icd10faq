@@ -3,7 +3,7 @@
 版权所有 © 2019 林鹏程， 保留所有权利。
 
 这是我在国际疾病分类(ICD) 10 编码过程中遇到的疑难杂症的一些合集,
-仅代表个人观点, 发出来, 希望对他人有所帮助.
+仅代表个人观点，发出来，不定时更新，希望对他人有所帮助.
 
 - [反馈和留言](https://github.com/linpengcheng/icd10faq/issues)
 - [最新增改列表](https://github.com/linpengcheng/icd10faq/commits/master)
