@@ -10,6 +10,10 @@
 
 # 目录
 
+## 基础
+
+- [万法归宗(国际疾病分类、道、大统一理论哲学)](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
+
 ## ICD 10
 
 - [`A37百日咳`临床2.0版`类百日咳综合征`处理不一致?](./doc/A37.md)
