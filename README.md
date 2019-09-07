@@ -1,4 +1,4 @@
-# 国际疾病分类(ICD) 10 编码疑难解析
+* 国际疾病分类(ICD) 10 编码疑难解析
 
 版权所有 © 2019 林鹏程， 保留所有权利。
 
@@ -12,7 +12,7 @@
 
 ## 基础
 
-- [万法归宗(国际疾病分类、AI、数学、会计、神话、武侠、道、大统一理论哲学)](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
+- [万法归宗(国际疾病分类、AI、数学、会计、神话、武侠、道、大统一理论哲学)(更新到2019.09.07)](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
 
 ## ICD 10
 
