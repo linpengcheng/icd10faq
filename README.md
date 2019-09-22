@@ -12,7 +12,7 @@
 
 ## 基础
 
-- [**★ 儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) **(更新到2019.09.13版)**](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
+- [**★ 儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) **(更新到2019.09.22版)**](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
 
 ## ICD 10
 
