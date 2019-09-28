@@ -1,4 +1,4 @@
-# 小规则服从大原则 rule compliance principle
+# 小规则服从大原则
 
 版权所有 © 2019 林鹏程， 保留所有权利。
 
