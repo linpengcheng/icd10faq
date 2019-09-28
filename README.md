@@ -14,6 +14,8 @@
 
 - [**★ 儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) **(更新到2019.09.22版)**](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
 
+- [小规则服从大原则](./doc/rule_compliance_principle.md)
+
 ## ICD 10
 
 - [★ `A37百日咳`临床2.0版`类百日咳综合征`处理不一致?](./doc/A37.md)
