@@ -14,6 +14,8 @@
 
 - [**★ 基于数学的现代化科学ICD编码：儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) **(更新到2019.09.22版)**](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
 
+- [卷3查找编码方法vs基于数学证明的方法](./doc/vol3_vs_math.md)
+
 - [小规则服从大原则](./doc/rule_compliance_principle.md)
 
 ## ICD 10
