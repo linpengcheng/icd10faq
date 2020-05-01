@@ -14,6 +14,8 @@
 
 - [**★ 基于数学的现代化科学ICD编码：儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) **(更新到2019.09.22版)**](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
 
+- [证“立德、立功、立言”三不朽](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/immortal.md)
+
 - [卷3查找编码方法vs基于数学证明的方法](./doc/vol3_vs_math.md)
 
 - [小规则服从大原则](./doc/rule_compliance_principle.md)
@@ -48,6 +50,7 @@
 
 ## ICD 9 CM 3
 
+- [★ 01.09临床2.0版把`颅内血肿硬通道穿刺引流术`编为01.39是错误的，应为01.09](./doc/01_09.md)
 - [★ 17.12临床版2.0版把`腹腔镜腹股沟疝修补术`的特指术式编码为17.13是错的，应为17.12](./doc/17.md)
 - [★ 21.61临床2.0版把内镜下鼻甲射频消融术编码为21.6904是错误的](./doc/21.md)
 - [★ 55.04`经皮肾镜输尿管结石碎石取石术`编码56.0还是55.04？](./doc/55.md)
