@@ -12,7 +12,7 @@
 
 ## 基础
 
-- [**★ 基于数学证明与价值抽象的现代化科学ICD编码：儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) **(更新到2019.09.22版)**, 基于数学证明与价值抽象(货币,一般等价物),实现`DRG费用结算`,`ICD编码`,`主诊选择`,`医疗服务`，`医学知识`大统一.](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
+- [**★ 基于数学证明与价值抽象的现代化科学ICD编码,实现`DRG费用结算`,`ICD编码`,`主诊选择`,`医疗服务`，`医学知识`大统一. ---- 儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) (更新到2019.09.22版)),](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
 
 - [证“立德、立功、立言”三不朽](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/immortal.md)
 
