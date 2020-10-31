@@ -12,7 +12,7 @@
 
 ## 基础
 
-- [**★ 基于数学的现代化科学ICD编码：儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) **(更新到2019.09.22版)**](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
+- [**★ 基于数学证明与价值抽象的现代化科学ICD编码：儒家大统一之道--学科融合**(国际疾病分类、AI、数学、会计) **(更新到2019.09.22版)**, 基于数学证明与价值抽象(货币,一般等价物),实现`DRG费用结算`,`ICD编码`,`主诊选择`,`医疗服务`，`医学知识`大统一.](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/Tao_ICD.md)
 
 - [证“立德、立功、立言”三不朽](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/immortal.md)
 
@@ -20,7 +20,7 @@
 
 - [小规则服从大原则](./doc/rule_compliance_principle.md)
 
-- [“DRGs费用结算，ICD编码、为患者提供的医疗服务、医学参考文献”三者一致原则(以脑出血分期与编码为例), 即: 实现`DRG费用结算`,`ICD编码`,`主诊选择`,`医疗服务`，`医学知识`大统一](./doc/I6X.md)
+- [“DRGs费用结算，ICD编码、为患者提供的医疗服务、医学参考文献”三者一致原则(以脑出血分期与编码为例), 即: 基于数学证明与价值抽象(货币,一般等价物),实现`DRG费用结算`,`ICD编码`,`主诊选择`,`医疗服务`，`医学知识`大统一](./doc/I6X.md)
   - [案例: 以儿童的急性肠炎为例](./doc/A09.md)
   - [案例: 相同的医疗服务的主诊应当一致, 以医疗性流产为例](./doc/O36.md)
   - [案例: 86.3鼻部血管瘤和唇部血管瘤这类的血管瘤切除术是编86.3x15皮肤及皮下血管瘤切除术还是编各部位病损切除术？](./doc/86_3.md)
