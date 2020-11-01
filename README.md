@@ -16,6 +16,8 @@
 
 - [证“立德、立功、立言”三不朽](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/immortal.md)
 
+- [国际疾病分类(ICD)编码、主诊选择、DRGs费用结算、医疗服务、医学知识大统一 ---- 纯函数管道数据流和仓库/车间模型大统一系列](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/unification_ICD_dataflow.md)
+
 - [卷3查找编码方法vs基于数学证明的方法](./doc/vol3_vs_math.md)
 
 - [小规则服从大原则](./doc/rule_compliance_principle.md)
